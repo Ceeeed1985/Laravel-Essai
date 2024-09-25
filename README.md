@@ -3,7 +3,12 @@
 ## Objectif :
 Sur base de ce que j'ai appris récemment sur Laravel, je veux être capable de créer un petit site, avec une page d'accueil, une page blog et une page contact.
 
-J'ajouterai des exercices par la suite
+J'ajouterai des exercices par la suite, mais l'objectif est de se faire la main sur les fonctionnalités de bases de Laravel :
+ - Création des routes
+ - Utilisation des controllers
+ - Création de Templates
+ - Création des views
+ - Création de Base de données
 
 ## A quoi je veux arriver
  - Je veux être capable des créer les views et de les mettre en page
